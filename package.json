@@ -5,7 +5,7 @@
   "main": "./src/index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/sospedra/reinput.git"
+    "url": "https://github.com/olarewajuakeemope/cashestate-react-native-input.git"
   },
   "keywords": [
     "react-native",
