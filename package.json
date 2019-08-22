@@ -1,6 +1,6 @@
 {
   "name": "cashestate-react-native-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A React Native TextInput with material style 😎",
   "main": "./src/index.js",
   "repository": {
